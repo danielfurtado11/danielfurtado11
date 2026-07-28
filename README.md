@@ -20,6 +20,4 @@ as well as researching, building, and testing new Deep Learning, Computer Vision
 </picture> 
 -->
 
----
-
-[Portfolio](https://danielfurtado.me) · [LinkedIn](https://www.linkedin.com/in/daniel-silva-furtado) · [CV](https://github.com/danielfurtado11/danielfurtado11/blob/main/cv.pdf)
+[Portfolio](https://danielfurtado.me) · [LinkedIn](https://www.linkedin.com/in/daniel-silva-furtado)
