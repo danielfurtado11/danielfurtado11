@@ -1,33 +1,22 @@
-## Daniel Furtado
+### Who I am
 
-**AI & Software Engineer** at NEXI Technologies — Barcelos, Portugal.
+I'm Daniel, a 23-year-old AI & Software Engineer from Barcelos. Fresh off my Master's at UMinho,
+I'm currently working at NEXI. My day-to-day involves developing and maintaining our core platform,
+as well as researching, building, and testing new Deep Learning, Computer Vision, and Voice AI models.
 
-I contribute to the development and maintenance of software platforms while researching and
-implementing AI solutions, including Deep Learning, Computer Vision and Voice AI. I'm always
-looking to learn more about Software Engineering and Artificial Intelligence while continuing
-to grow as an engineer.
+### My approach
 
-### Education
+I focus on balancing AI research with reliable software. I love experimenting with new models, but
+writing clean, maintainable code is just as important to me. Ultimately, the best results come from
+staying organized, learning constantly, and working well as a team.
 
-| | | |
-|---|---|---|
-| **MSc in Computer Engineering** | University of Minho | 2023–2026 · Final grade 16.4 |
-| **BSc in Computer Engineering** | University of Minho | 2020–2023 · Final grade 14.7 |
+### Outside work
 
-Master's thesis: *Development of a Model for Assessing Student Engagement in Class* — graded 18/20.
-Researched and implemented Deep Learning and Computer Vision models for automated engagement assessment.
+When I'm not coding, I'm usually traveling, working out, or playing football for my hometown club.
+I'm also a big gamer — in fact, video games are what originally sparked my passion for building apps
+and becoming a software engineer.
 
-### Technologies
-
-| | |
-|---|---|
-| **AI / ML** | PyTorch · TensorFlow · Keras · Computer Vision · LLMs · AI Agents · RAG · MCP |
-| **Languages** | Python · Java · JavaScript · C · Haskell |
-| **Backend** | Spring · FastAPI · Django |
-| **Data** | PostgreSQL · MySQL · Apache Spark |
-| **Infrastructure** | Google Cloud Platform · Docker · Linux · Git |
-
-### Activity
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielfurtado11/danielfurtado11/main/profile/stats-dark.svg" />
